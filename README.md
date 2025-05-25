@@ -28,6 +28,7 @@ Sorbil React Dersleri Kaynak kodları ve dökümasyonlar.
 ![wp4923978-react-js-wallpapers](https://github.com/user-attachments/assets/90a552b0-5713-45cc-903e-5a2f9e76515f)
 
 <h1>SOLID</h1>
+
 ![01J4KN3A0Q6JC7969TQ4AHJM20](https://github.com/user-attachments/assets/56a2730f-f10e-4ac4-b06f-a63e62a09e0c)
 
 
