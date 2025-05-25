@@ -10,6 +10,7 @@ Sorbil React Dersleri Kaynak kodları ve dökümasyonlar.
 
 <h1>Bazı Terminal Komutları</h1>
 <p><span>Bazı Terminal Komutları Notlar!</span></p>
+
 ![437932255-56265b5b-0e9e-4a2d-82ed-eb9004ad5482](https://github.com/user-attachments/assets/960106ee-db36-499a-af38-e7ba06d58ddc)
 
 
