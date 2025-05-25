@@ -32,4 +32,7 @@ Sorbil React Dersleri Kaynak kodları ve dökümasyonlar.
 ![01J4KN3A0Q6JC7969TQ4AHJM20](https://github.com/user-attachments/assets/56a2730f-f10e-4ac4-b06f-a63e62a09e0c)
 
 
+<h1>Portfolio;</h1>
+
+![20241217_tktkt195925](https://github.com/user-attachments/assets/6796fe93-68c1-4d6f-8b5b-84e849a67e08)
 
