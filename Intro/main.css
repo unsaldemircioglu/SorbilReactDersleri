@@ -1,0 +1,15 @@
+:root{
+    --bg: #191919;
+    --textColor: snow;
+    --box: darkgreen;
+    --box_p: 10%;
+}
+
+body{
+    background: var(--bg);
+}
+div{
+    background-color: var(--box);
+    color: var(--textColor);
+    padding: var(--box_p);
+}
