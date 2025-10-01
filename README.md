@@ -35,6 +35,16 @@ Sorbil React Dersleri Kaynak kodları ve dökümasyonlar.
 ![01J4KN3A0Q6JC7969TQ4AHJM20](https://github.com/user-attachments/assets/56a2730f-f10e-4ac4-b06f-a63e62a09e0c)
 
 
+JSON Nedir?<img width="503" height="150" alt="image" src="https://github.com/user-attachments/assets/c15d9a2c-360a-453e-8f5e-6625d0955b03" />
+JSON'un açılımı JavaScript Object Notation'dır.
+JSON, iki sistem (örneğin bir web sunucusu ile bir mobil uygulama) arasında yapılandırılmış veri değişimi için kullanılan hafif ve metin tabanlı bir formattır.
+Basitçe ifade etmek gerekirse:
+Veri Formatıdır, Programlama Dili Değildir: JSON, bir programlama dili değil, verileri düzenlemek ve taşımak için kullanılan bir kural setidir.
+İnsan ve Makine Odaklı: Söz dizimi (syntax) hem insanlar tarafından kolayca okunabilir hem de makineler (bilgisayarlar) tarafından hızlı ve kolayca ayrıştırılabilir (parse edilebilir).
+Dilden Bağımsız: Adında "JavaScript" geçse de, C#, Python, Java, PHP, Ruby ve daha pek çok programlama dili JSON verisini üretmek ve tüketmek için yerleşik destek sunar. Bu özelliği sayesinde API'ler (Uygulama Programlama Arayüzleri) için evrensel standart haline gelmiştir.
+<img width="3733" height="352" alt="image" src="https://github.com/user-attachments/assets/5fd7899b-11dc-4683-adf7-3348cbe6ce3b" />
+
+
 <h1>Portfolio;</h1>
 
 ![20241217_tktkt195925](https://github.com/user-attachments/assets/6796fe93-68c1-4d6f-8b5b-84e849a67e08)
