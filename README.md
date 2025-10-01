@@ -57,6 +57,10 @@ Dilden Bağımsız: Adında "JavaScript" geçse de, C#, Python, Java, PHP, Ruby 
 <img width="1023" height="88" alt="image" src="https://github.com/user-attachments/assets/aa8576a4-4f43-4393-a76f-6a81f8feb376" />
 
 
+![1_kfTv6oXbbUpGBX2GOIorGg](https://github.com/user-attachments/assets/a0af6ff3-4311-45c7-bbb2-f97c3958f740)
+
+
+
 <h1>Portfolio;</h1>
 
 ![20241217_tktkt195925](https://github.com/user-attachments/assets/6796fe93-68c1-4d6f-8b5b-84e849a67e08)
