@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  background: green;
+  padding: 20%;
+  color: azure;
+  font-size: 2rem;
+  text-decoration: none;
+}

@@ -1,0 +1,16 @@
+/*Kenar,boşluklar,kutu gölgeleri, liste elemanlarının başındaki işaretlerin hepsinin dğerini sıfırla*/
+*{
+         padding: 0;
+         margin: 0;
+         box-shadow: none;
+         text-decoration: none;
+}
+
+body{
+         background: #191919;
+         color: antiquewhite;
+         font-family: 'Times New Roman', Times, serif;
+}
+span{
+         padding: 10%;
+}

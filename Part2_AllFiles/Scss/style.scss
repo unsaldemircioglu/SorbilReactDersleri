@@ -1,0 +1,18 @@
+@use "module.scss";
+
+$bg: #161616;
+$color: green;
+$line: border;
+$font: Times New Roman, Times, serif;
+$width: 60%;
+$padding: 10%;
+$text_size: 4em;
+
+
+body{
+         background: $bg;
+         font-family: $font;
+         width: $width;
+         padding: $padding;
+         font-size: $text_size;
+}
