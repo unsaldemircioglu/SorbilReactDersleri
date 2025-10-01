@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body {
+  background: #161616;
+  color: red;
+}
+body a {
+  color: red;
+}
+body li {
+  text-decoration: none;
+}
+
+/*Operatörler*/
+.container {
+  display: flex;
+}
+
+article[role=main] {
+  width: 62.5%;
+}
+
+aside[role=complementary] {
+  width: 31.25%;
+  margin-left: auto;
+}
+
+/*# sourceMappingURL=style.css.map */

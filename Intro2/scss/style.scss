@@ -1,0 +1,34 @@
+@use "sass:math";
+
+$primary_color: red;
+$web_light: azure;
+$web_dark: #161616;
+$line: none;
+
+body{
+    background: $web_dark;
+    color: $primary_color;
+
+    a{
+    color: $primary_color;
+}
+
+li{
+    text-decoration: $line;
+}
+}
+
+/*Operatörler*/
+
+.container {
+  display: flex;
+}
+
+article[role="main"] {
+  width: math.div(600px, 960px) * 100%;
+}
+
+aside[role="complementary"] {
+  width: math.div(300px, 960px) * 100%;
+  margin-left: auto;
+}
