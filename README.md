@@ -44,6 +44,9 @@ Veri Formatıdır, Programlama Dili Değildir: JSON, bir programlama dili değil
 Dilden Bağımsız: Adında "JavaScript" geçse de, C#, Python, Java, PHP, Ruby ve daha pek çok programlama dili JSON verisini üretmek ve tüketmek için yerleşik destek sunar. Bu özelliği sayesinde API'ler (Uygulama Programlama Arayüzleri) için evrensel standart haline gelmiştir.
 <img width="3733" height="352" alt="image" src="https://github.com/user-attachments/assets/5fd7899b-11dc-4683-adf7-3348cbe6ce3b" />
 
+{ "ad": "Unsal", "soyad": " Demircioğlu", "yas": 20 }
+<img width="1023" height="88" alt="image" src="https://github.com/user-attachments/assets/aa8576a4-4f43-4393-a76f-6a81f8feb376" />
+
 
 <h1>Portfolio;</h1>
 
