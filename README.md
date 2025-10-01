@@ -22,6 +22,9 @@ Sorbil React Dersleri Kaynak kodları ve dökümasyonlar.
 
 ![bilgisayar-veriyi-nasil-saklar](https://github.com/user-attachments/assets/287425a5-081e-4527-95cb-b2503534ebf3)
 
+<h1>Scss</h1>
+<img width="811" height="449" alt="Untitled" src="https://github.com/user-attachments/assets/6f98d2a3-b1a0-4590-90ca-17e94b1c80b9" />
+
 
 <h3> Node Js </h3>
 
